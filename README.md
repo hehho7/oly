@@ -1,2 +1,2 @@
-# oly
-parody website of olx
+# olx-parody
+“A parody marketplace for regret purchases”
